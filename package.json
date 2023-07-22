@@ -9,8 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@alentoma/usestate": "^1.2.9",
+    "@tanstack/react-query": "^4.32.0",
+    "@tanstack/react-table": "^8.9.3",
+    "moment": "^2.29.4",
+    "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-table": "^7.8.0"
   }
 }
